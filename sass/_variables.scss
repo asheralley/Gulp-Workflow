@@ -1,0 +1,23 @@
+$bgcolor: #DCEFFF;
+$maincolor: #2027B2;
+$secondarycolor: #4750FF;
+$fontcolor: #333333;
+$highlight: #B2A366;
+
+body {
+	background: $bgcolor;
+}
+
+h1 {
+	color: $maincolor;
+ }
+
+ h2 {
+ 	color: $highlight;
+ }
+
+ p {
+ 	color: $secondarycolor;
+ }
+
+
