@@ -1,17 +1,23 @@
 
-$mainwidth: 960px;
-$center: 0 auto;
-
-
-
-.main-title{
-	max-width: 960px;
-	margin: $center;
-	text-align: center;
-	font-size: 3.5em;
+header {
+	width: 100%;
+	background: $headcolor;
+	font: "BebasNeue";
 }
 
-.container {
-	max-width: 960px;
-	margin: $center;
+.wrapper {
+	color: $textbody;
+}
+
+.header-content{
+	width: 80%;
+	max-width: 1141px;
+	margin: 3em auto;
+	display: flex;
+	justify-content: space-around;
+}
+
+.container{
+	width: 80%;
+	max-width: 1141px;
 }

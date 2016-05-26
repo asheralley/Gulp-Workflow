@@ -1,1 +1,1 @@
-.container,.main-title{max-width:960px;margin:0 auto}body{background:#DCEFFF}h1{color:#2027B2}h2{color:#B2A366}p{color:#4750FF}.main-title{text-align:center;font-size:3.5em}
+header{width:100%;background:#C3DFDC;font:BebasNeue}.container,.header-content{width:80%;max-width:1141px}.wrapper{color:#6D7475}.header-content{margin:3em auto;display:flex;justify-content:space-around}@font-face{font-family:BebasNeue;src:url(/fonts/BebasNeue.otf) format("opentypeface")}
